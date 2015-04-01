@@ -1,0 +1,166 @@
+SiteCake End-User License Agreement
+
+This End-User License Agreement (the Agreement) is a binding legal agreement 
+between you (either an individual or a single entity) and SiteCake Corp. (the 
+Company). By downloading, installing or using SiteCake (the Software 
+Product), you agree to be bound by the terms of this Agreement. If you do not 
+agree to the terms of this Agreement, you are not permitted to install, copy, 
+or use the Software Product. The Software Product may include associated 
+software components, media, printed  materials, online or electronic 
+documentation, and any and all copies and derivative works of such software 
+program and documentation. This license Agreement supersedes any prior proposal, 
+representation, or understanding between the parties.
+
+The Software Product is protected by copyright laws and international copyright 
+treaties, as well as other intellectual property laws and treaties. The Software 
+Product is licensed, not sold.
+
+1. Grant of License
+
+(1a) Installation and Use
+
+This Agreement grants a non-transferable license to install and use the Software 
+Product on a single website. Additional Software Product licenses must be purchased, 
+or obtained in case of the free version, in order to install and use the Software 
+Product on additional websites. The Company reserves the right to determine whether 
+use of the Software Product qualifies under this Agreement. The Company owns all 
+rights, title and interest to the Software Product (including all intellectual 
+property rights) and reserves all rights to the Software Product that are not 
+expressly granted in this Agreement.
+
+(1b) Backup Copies
+
+You may make unaltered copies of the Software Product as may be necessary for backup 
+purposes only.
+
+2. Description of Other Rights and Limitations
+
+(2a) Maintenance of Copyright Notices
+
+You must not remove or alter any branding or copyright notices on any and all copies 
+of the Software Product.
+
+(2b) Distribution
+
+You may not sell, assign, license, disclose, distribute, or otherwise transfer or 
+make available the Software Product or its Source Code, in whole or in part, in any 
+form to any third parties.
+
+(2c) Prohibition on Reverse Engineering, Decompilation, and Disassembly
+
+You may not reverse engineer, decompile, or disassemble the Software Product or its 
+Source Code.
+
+(2d) Rental
+
+You may not rent, lease, or lend the Software Product.
+
+(2e) Support Services
+
+Company may or may not provide you with support services related to the Software 
+Product (Support Services). Any supplemental software code provided to you as 
+part of the Support Services shall be considered part of the Software Product and 
+subject to the terms and conditions of this Agreement.
+
+(2f) Compliance with Applicable Laws
+
+You must comply with all applicable laws regarding use of the Software Product.
+
+3. Copyright
+
+All title, including but not limited to copyrights, in and to the Software 
+Product and any copies thereof are owned by the Company. All title and 
+intellectual property rights in and to the content which may be accessed through 
+use of the Software Product is the property of the respective content owner and 
+may be protected by applicable copyright or other intellectual property laws and 
+treaties. This Agreement grants you no rights to use such content. All rights not 
+expressly granted are reserved by Company.
+
+4. Termination
+
+(4a) General Terms of Termination
+
+You may use the Software Product under this Agreement until either party 
+terminates this Agreement as set forth in this section. Either party may 
+terminate the Agreement at any time, upon written notice to the other party. 
+Upon termination, all licenses granted to you will terminate, and you will 
+immediately uninstall, destroy all files, and cease all use of the Software 
+Product. Sections 2b, 2c, 2d and sections entitled No Warranties,
+Indemnification, and Limitation of Liability will survive any termination 
+of this Agreement.
+
+(4b) License Violation Termination
+
+In the event of license termination due to violation of the Agreement, all terms 
+of section (4a) remain in force with the additional measure that all 
+satisfaction guarantees, written or implied, are nullified.
+
+5. No Warranties
+
+Company expressly disclaims any warranty for the Software Product. The Software 
+Product is provided as is without any express or implied warranty of any kind, 
+including but not limited to any warranties of merchantability, noninfringement, 
+or fitness of a particular purpose. Company does not warrant or assume 
+responsibility for the accuracy or completeness of any information, text, 
+graphics, links or other items contained within the Software Product. You assume 
+all risk associated with the quality, performance, installation and use of the 
+Software Product, including, but not limited to, the risks of program errors, 
+damage to equipment, loss of data or software programs, or unavailability or 
+interruption of operations. You are solely responsible for determining the 
+appropriateness of the use of the Software Product and assume all risks associated 
+with its use. Company further expressly disclaims any warranty or representation 
+to Authorized Users or to any third party.
+
+6. Indemnification
+
+By accepting the Agreement, you agree to indemnify and otherwise hold harmless the 
+Company, its officers, employers, agents, subsidiaries, affiliates and other 
+partners from any direct, indirect, incidental, special, consequential or exemplary 
+damages arising out of, relating to, or resulting from your use of the Software 
+Product or any other matter relating to the Software Product.
+
+7. Limitation of Liability
+
+In no event shall Company be liable for any damages (including, without limitation, 
+lost profits, business interruption, or lost information) rising out of Authorized 
+Users use of or inability to use the Software Product, even if Company has been 
+advised of the possibility of such damages. In no event will Company be liable for 
+loss of data or for indirect, special, incidental, consequential (including lost 
+profit), or other damages based in contract, tort or otherwise. Company shall have 
+no liability with respect to the content of the Software Product or any part 
+thereof, including but not limited to errors or omissions contained therein, libel, 
+infringements of rights of publicity, privacy, trademark rights, business 
+interruption, personal injury, loss of privacy, moral rights or the disclosure of 
+confidential information. Some jurisdictions do not allow the exclusion of the 
+limitation or exclusion of liability for incidental or consequential damages. 
+Accordingly, some of the above limitations may not apply to you. In no event will 
+the Company's total cumulative damages exceed the fees you paid to the Company 
+under this Agreement in the most recent twelve-month period.
+
+8. Definitions
+
+(8a) Definition of website
+
+A website is defined as a single domain, excluding sub-domains, that operates 
+as a single entity. What constitutes a single entity shall be at the sole 
+discretion of the Company.
+
+(8b) Definition of Source Code
+
+The Source Code is defined as the contents of all HTML, CSS, XML, JavaScript, 
+and PHP files provided with the Software Product and includes all related image 
+files.
+
+(8c) Definition of Authorized Users
+
+Authorized Users are individuals or single entities that have been licensed to 
+use the Software Product according to this Agreement.
+
+9. Changes to the Agreement
+
+We may revise these Terms from time to time, with the most current version will 
+always be at http://sitecake.com/license.php. If the revision, in our sole discretion, 
+is material we will notify you via a @Twitter update (viewable in the stream on 
+your settings dashboard) or e-mail to the email associated with your license. By 
+continuing to access or use SiteCake those revisions become effective, you agree 
+to be bound by the revised Agreement.
