@@ -32,7 +32,7 @@ include "sitecake/sitecake/server/sitecake_entry.php";
 		<style type="text/css">
 			body {
 
-				background: url(photos/background3.jpg) no-repeat center center fixed;
+				background: url(photos/Projects.JPG) no-repeat center center fixed;
 				-webkit-background-size: cover;
 				-moz-background-size: cover;
 				-o-background-size: cover;
@@ -51,9 +51,17 @@ include "sitecake/sitecake/server/sitecake_entry.php";
 	<header>
 
 		<nav class="navbar navbar-default navbar-fixed-top">
-			<div class="container">
+			<div class="container-fluid">
 				<!-- Brand and toggle get grouped for better mobile display -->
 				<div class="navbar-header">
+					<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+						<span class="sr-only">Toggle navigation</span>
+						<span class="icon-bar"></span>
+						<span class="icon-bar"></span>
+						<span class="icon-bar"></span>
+					</button>
+				</div>
+				<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
 
 					<ul class="nav navbar-nav">
 						<li>
@@ -66,7 +74,7 @@ include "sitecake/sitecake/server/sitecake_entry.php";
 							<a href="projects.php">Projects<span class="sr-only">(current)</span></a>
 						</li>
 						<li>
-							<a href="#">News</a>
+							<a href="News.php">News</a>
 						</li>
 						<li>
 							<a href="#">Contact</a>
