@@ -32,7 +32,7 @@ include "sitecake/sitecake/server/sitecake_entry.php";
 		<style type="text/css">
 			body {
 
-				background: url(photos/Projects.JPG) no-repeat center center fixed;
+				background: url(photos/Donate.JPG) no-repeat center center fixed;
 				-webkit-background-size: cover;
 				-moz-background-size: cover;
 				-o-background-size: cover;
@@ -70,8 +70,8 @@ include "sitecake/sitecake/server/sitecake_entry.php";
 						<li>
 							<a href="about.php">About Us</a>
 						</li>
-						<li class="active">
-							<a href="projects.php">Projects<span class="sr-only">(current)</span></a>
+						<li>
+							<a href="projects.php">Projects</a>
 						</li>
 						<li>
 							<a href="news.php">News</a>
@@ -79,8 +79,8 @@ include "sitecake/sitecake/server/sitecake_entry.php";
 						<li>
 							<a href="contacts.php">Contact</a>
 						</li>
-						<li>
-							<a href="donate.php">Donate</a>
+						<li class ="active">
+							<a href="donate.php">Donate<span class="sr-only">(current)</span></a>
 						</li>
 					</ul>
 				</div>
@@ -97,24 +97,33 @@ include "sitecake/sitecake/server/sitecake_entry.php";
 		<!-- /.container-fluid -->
 
 		<div class="container" >
-			<div class="jumbotron myBackground sc-content-projects">
-				<h1>Projects</h1>
+			<div class="jumbotron myBackground sc-content-donate">
+				<h1>Donate</h1>
 				<p>
-				<li>
-					<h3><a href="project1.php">Patent Model Museum, 2015</a></h3>
-				</li>
-				<li>
-					<h3><a href="#">Artifacts at the Beekman Mill House, 2014</a></h3>
-				</li>
-				<li>
-					<h3><a href="#">Beekman Mill House, 2014</a></h3>
-				</li>
-				<li>
-					<h3><a href="#">Apouquague Friends Burial Ground, 2012</a></h3>
-				</li>
-</p>
+					<h2>Ways to Give</h2>
+
+					<h3>Your contribution, no matter how large or small, will help support the
+					YFR campaign to restore and preserve our history.</h3>
+
+					<h2>Here is how you can lend your support:</h2>
+
+					<h2>Donate Online</h2>
+					<h4>Click here to donate using PayPal</h4>
+
+					<h2>Donate by Mail</h2>
+					<h3>Mail your contribution check, payable to “Youth For Restoration” to:
+
+					Youth For Restoration
+					27 Noble Hill Drive
+					Poughquag, NY 12570
+
+					Youth for Restoration is a registered 501 © (3) private foundation,
+					donations are deductible for federal income tax purposes in
+					accordance with applicable law. </h3>
+
+				</p>
 			</div>
-			
+
 		</div>
 		<nav class="navbar navbar-default navbar-fixed-bottom">
 

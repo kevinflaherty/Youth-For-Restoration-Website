@@ -78,10 +78,10 @@ include "sitecake/sitecake/server/sitecake_entry.php";
 							<a href="news.php">News<span class="sr-only">(current)</span></a>
 						</li>
 						<li>
-							<a href="#">Contact</a>
+							<a href="contacts.php">Contact</a>
 						</li>
 						<li>
-							<a href="#">Donate</a>
+							<a href="donate.php">Donate</a>
 						</li>
 					</ul>
 				</div>
@@ -104,18 +104,16 @@ include "sitecake/sitecake/server/sitecake_entry.php";
 
 				<p>
 					<li>
-					<h3><a href="http://www.twcnews.com/archives/nys/hudson-valley/2014/08/2/youth-helping-to-save-old-mill-house-in-beekman-NY_757971.old.html
-"target="_blank">Time Warner Cable News, August 2014</a></h3>
+					<h3><a href="http://www.twcnews.com/archives/nys/hudson-valley/2014/08/2/youth-helping-to-save-old-mill-house-in-beekman-NY_757971.old.html" target="_blank">Time Warner Cable News, August 2014</a> </h3>
 				</li>
 				<li>
-					<h3><a href="www.poughkeepsiejournal.com/story/news/2014/07/27/beekman-mill-house-youth/13252745/
-"target="_blank">Youth group to restore historic Beekman Mill House, Poughkeepsie Journal, July 2014</a></h3>
+					<h3><a href="http://www.poughkeepsiejournal.com/story/news/2014/07/27/beekman-mill-house-youth/13252745" target="_blank"> Youth group to restore historic Beekman Mill House, Poughkeepsie Journal, July 2014 </a> </h3>
 				</li>
 				<li>
-					<h3><a href="www.hvmag.com/Hudson-Valley-Magazine/June-2014/High-School-Students-Travel-the-Valley-to-Restore-Historic-Sites"target="_blank">High School Students Travel the Valley to Restore Historic Sites, Hudson Valley Magazine, June 2014 </a></h3>
+					<h3><a href="http://www.hvmag.com/Hudson-Valley-Magazine/June-2014/High-School-Students-Travel-the-Valley-to-Restore-Historic-Sites" target="_blank"> High School Students Travel the Valley to Restore Historic Sites, Hudson Valley Magazine, June 2014 </a></h3>
 				</li>
 				<li>
-					<h3><a href="youthforrestoration.blogspot.com/2014/01/the-poughkeepsie-journal-covers-youth.html"target="_blank">Volunteers at work, Poughkeepsie Journal, November 2012 </a></h3>
+					<h3><a href="http://youthforrestoration.blogspot.com/2014/01/the-poughkeepsie-journal-covers-youth.html"target="_blank">Volunteers at work, Poughkeepsie Journal, November 2012 </a></h3>
 				</li>
 				<li>
 					<h3><a href="http://www.townofbeekman.com/index.asp?Type=B_BASIC&SEC=%7B1116D09E-F248-4CD3-B50B-7812F9DD6EEF%7D"target="_blank">Town of Beekman</a></h3>

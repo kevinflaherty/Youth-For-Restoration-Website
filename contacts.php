@@ -32,7 +32,7 @@ include "sitecake/sitecake/server/sitecake_entry.php";
 		<style type="text/css">
 			body {
 
-				background: url(photos/Projects.JPG) no-repeat center center fixed;
+				background: url(photos/Contact.JPG) no-repeat center center fixed;
 				-webkit-background-size: cover;
 				-moz-background-size: cover;
 				-o-background-size: cover;
@@ -70,15 +70,16 @@ include "sitecake/sitecake/server/sitecake_entry.php";
 						<li>
 							<a href="about.php">About Us</a>
 						</li>
-						<li class="active">
-							<a href="projects.php">Projects<span class="sr-only">(current)</span></a>
+						<li>
+							<a href="projects.php">Projects</span></a>
 						</li>
 						<li>
 							<a href="news.php">News</a>
 						</li>
-						<li>
-							<a href="contacts.php">Contact</a>
+						<li class="active">
+							<a href="contacts.php">Contact<span class="sr-only">(current)</span></a>
 						</li>
+						
 						<li>
 							<a href="donate.php">Donate</a>
 						</li>
@@ -97,22 +98,19 @@ include "sitecake/sitecake/server/sitecake_entry.php";
 		<!-- /.container-fluid -->
 
 		<div class="container" >
-			<div class="jumbotron myBackground sc-content-projects">
-				<h1>Projects</h1>
+			<div class="jumbotron myBackground sc-content-contacts">
+				<h1>Contact Us</h1>
 				<p>
-				<li>
-					<h3><a href="project1.php">Patent Model Museum, 2015</a></h3>
-				</li>
-				<li>
-					<h3><a href="#">Artifacts at the Beekman Mill House, 2014</a></h3>
-				</li>
-				<li>
-					<h3><a href="#">Beekman Mill House, 2014</a></h3>
-				</li>
-				<li>
-					<h3><a href="#">Apouquague Friends Burial Ground, 2012</a></h3>
-				</li>
-</p>
+					Please feel free to reach out to us using this form. If you would like to get involved, we welcome 
+volunteers. Your support is invaluable in helping us preserve our history!
+
+
+
+
+
+<iframe src="https://docs.google.com/forms/d/1uYWtmVL-Tuu6RoC33zOM1LYUG2zNF2hsteNs_8iO8L0/viewform?embedded=true#start=embed" width="770" height="770" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
+
+				</p>
 			</div>
 			
 		</div>

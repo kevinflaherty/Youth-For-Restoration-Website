@@ -76,10 +76,10 @@ include "sitecake/sitecake/server/sitecake_entry.php";
 							<a href="news.php">News</a>
 						</li>
 						<li>
-							<a href="#">Contact</a>
+							<a href="contacts.php">Contact</a>
 						</li>
 						<li>
-							<a href="#">Donate</a>
+							<a href="donate.php">Donate</a>
 						</li>
 					</ul>
 				</div>

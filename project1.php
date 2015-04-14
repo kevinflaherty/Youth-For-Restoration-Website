@@ -1,6 +1,6 @@
 <?php
 include "sitecake/sitecake/server/sitecake_entry.php";
-?>
+ ?>
 <!DOCTYPE html>
 
 <html lang="en">
@@ -15,7 +15,8 @@ include "sitecake/sitecake/server/sitecake_entry.php";
 		<!-- Latest compiled and minified CSS -->
 
 		<!-- Optional theme -->
-
+		<script src="http://code.jquery.com/jquery-latest.min.js" type="text/javascript"></script>
+		<link href="bootstrap-3.3.4-dist/css/bootstrap-responsive.css" rel="stylesheet" />
 		<link rel="stylesheet" type="text/css" href="bootstrap-3.3.4-dist/css/bootstrap.min.css">
 		<!-- Latest compiled and minified JavaScript -->
 
@@ -31,8 +32,7 @@ include "sitecake/sitecake/server/sitecake_entry.php";
 		</style>
 		<style type="text/css">
 			body {
-
-				background: url(photos/Projects.JPG) no-repeat center center fixed;
+				background: url(photos/project1.JPG) no-repeat center center fixed;
 				-webkit-background-size: cover;
 				-moz-background-size: cover;
 				-o-background-size: cover;
@@ -51,6 +51,7 @@ include "sitecake/sitecake/server/sitecake_entry.php";
 	<header>
 
 		<nav class="navbar navbar-default navbar-fixed-top">
+
 			<div class="container-fluid">
 				<!-- Brand and toggle get grouped for better mobile display -->
 				<div class="navbar-header">
@@ -62,7 +63,6 @@ include "sitecake/sitecake/server/sitecake_entry.php";
 					</button>
 				</div>
 				<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
-
 					<ul class="nav navbar-nav">
 						<li>
 							<a href="index.php">Home</a>
@@ -77,14 +77,15 @@ include "sitecake/sitecake/server/sitecake_entry.php";
 							<a href="news.php">News</a>
 						</li>
 						<li>
-							<a href="contacts.php">Contact</a>
+							<a href="#">Contact</a>
 						</li>
 						<li>
-							<a href="donate.php">Donate</a>
+							<a href="#">Donate</a>
 						</li>
 					</ul>
 				</div>
-				<!-- Collect the nav links, forms, and other content for toggling -->
+			</div>
+			<!-- Collect the nav links, forms, and other content for toggling -->
 
 			</div><!-- /.navbar-collapse -->
 		</nav>
@@ -97,24 +98,23 @@ include "sitecake/sitecake/server/sitecake_entry.php";
 		<!-- /.container-fluid -->
 
 		<div class="container" >
-			<div class="jumbotron myBackground sc-content-projects">
-				<h1>Projects</h1>
+			<div class="jumbotron myBackground sc-content-project1">
+				<h1 class="whitney">The Susan M. Eichelberg Glendening Patent Model Collection</h1>
+
 				<p>
-				<li>
-					<h3><a href="project1.php">Patent Model Museum, 2015</a></h3>
-				</li>
-				<li>
-					<h3><a href="#">Artifacts at the Beekman Mill House, 2014</a></h3>
-				</li>
-				<li>
-					<h3><a href="#">Beekman Mill House, 2014</a></h3>
-				</li>
-				<li>
-					<h3><a href="#">Apouquague Friends Burial Ground, 2012</a></h3>
-				</li>
-</p>
+					YFR is currently working on creating a database for the largest collection of U.S. patent models by women inventors in existence. These models are part of the Susan M. Eichelberg Glendening Patent Model Collection,
+					and housed in the Riverbank Historic House Museum in Cornwall-on-Hudson, NY.
+				</p>
+				
+				<p>
+					The U.S Patent office was created in 1790. From 1790 until 1880 inventors were required to submit models of their inventions along with their applications. This collection contains over 650 original patent models,
+					including, Thomas Edison's Carbonizer for the Filaments of Light Bulbs (October 18, 1881), the 1879 Bicycle, and perhaps the smallest model ever found of the Safety Pin(1879).
+				</p>
+				
+				<p>
+					<a href="http://www.patentmodelmuseum.org/" class="btn btn-primary btn-lg" role="button">More Information</a>
+				</p>
 			</div>
-			
 		</div>
 		<nav class="navbar navbar-default navbar-fixed-bottom">
 
