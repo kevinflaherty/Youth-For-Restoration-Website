@@ -107,7 +107,7 @@ include "sitecake/sitecake/server/sitecake_entry.php";
 					<h3><a href="#">Artifacts at the Beekman Mill House, 2014</a></h3>
 				</li>
 				<li>
-					<h3><a href="#">Beekman Mill House, 2014</a></h3>
+					<h3><a href="project2.php">Beekman Mill House, 2014</a></h3>
 				</li>
 				<li>
 					<h3><a href="#">Apouquague Friends Burial Ground, 2012</a></h3>
