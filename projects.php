@@ -101,7 +101,7 @@ include "sitecake/sitecake/server/sitecake_entry.php";
 				<h1>Projects</h1>
 				<p>
 				<li>
-					<h3><a href="#">Patent Model Museum, 2015</a></h3>
+					<h3><a href="project1.php">Patent Model Museum, 2015</a></h3>
 				</li>
 				<li>
 					<h3><a href="#">Artifacts at the Beekman Mill House, 2014</a></h3>
