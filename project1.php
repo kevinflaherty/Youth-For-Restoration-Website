@@ -99,7 +99,7 @@ include "sitecake/sitecake/server/sitecake_entry.php";
 		<!-- /.container-fluid -->
 
 		<div class="container" >
-			<div class="jumbotron myBackground sc-content-home">
+			<div class="jumbotron myBackground sc-content-project1">
 				<h1 class="whitney">Youth For Restoration</h1>
 
 				<p>
@@ -113,7 +113,7 @@ include "sitecake/sitecake/server/sitecake_entry.php";
 				</p>
 				
 				<p> 
-					For more information, please <click here>.
+					For more information, please <a= "#"<click here>.
 				
 				<p>
 					<a href="about.php" class="btn btn-primary btn-lg" role="button">Learn more &raquo;</a>
